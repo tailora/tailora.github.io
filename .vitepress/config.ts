@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Tailora",
-  base: "/docs/",
+  base: "/",
   description: "Application scaffolding for Laravel",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
