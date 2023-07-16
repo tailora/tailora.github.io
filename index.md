@@ -17,19 +17,19 @@ hero:
 features:
   - title: Laravel
     icon:
-      src: assets/laravel.svg
+      src: /assets/laravel.svg
     details: Tailora is for Laravel, the most popular PHP framework.
   - title: Quasar
     icon:
-        src: assets/quasar.svg
+        src: /assets/quasar.svg
     details: Build high-performance VueJS user interfaces in record time.
   - title: TailwindCSS
     icon:
-        src: assets/tailwind.svg
+        src: /assets/tailwind.svg
     details: Rapidly build modern websites without ever leaving your HTML.
   - title: Inertia
     icon:
-        src: assets/inertiajs.png
+        src: /assets/inertiajs.png
     details: Build single-page apps, without building an API
 ---
 
