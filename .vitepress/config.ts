@@ -32,7 +32,6 @@ export default defineConfig({
           {text: 'Quasar', link: '/configuration/index'},
           {text: 'Tailwind CSS', link: '/configuration/index'},
           {text: 'Inertia.js', link: '/configuration/index'},
-          {text: 'Inertia', link: '/configuration/index'}
         ]
       },
       {
